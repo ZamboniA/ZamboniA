@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 Estou a procura da minha primeira oportunidade na área de tecnologia.
-- 🌱 Estou estudando React e NodeJS
+- 🌱 Atualmente estudando React & Node
 - 📫 linkedin: https://www.linkedin.com/in/andersonzamboni/
 
 
