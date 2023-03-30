@@ -1,4 +1,4 @@
-### Ola, eu me chamo Anderson 👋
+### Ola, eu me chamo Anderson
 
 
 <!-- **ZamboniA/ZamboniA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
