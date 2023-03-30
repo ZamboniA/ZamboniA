@@ -3,7 +3,7 @@
 
 <!-- **ZamboniA/ZamboniA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 Estou a procura da minha primeira oportunidade na área de tecnologia.
 - 🌱 Estou estudando React e NodeJS
