@@ -7,9 +7,8 @@
 
 - 🔭 Estou a procura da minha primeira oportunidade na área de tecnologia.
 - 🌱 Atualmente estudando React & Node
-- 📫 linkedin: https://www.linkedin.com/in/andersonzamboni/
 
-
+</br>
 
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=zambonia&count_private=true&theme=dracula&include_all_commits-true&count_private-true"/>
@@ -24,3 +23,6 @@
     <img align="center" alt="Anderson-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
           
 </div>
+</br>
+</br>
+<a href="https://www.linkedin.com/in/andersonzamboni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
