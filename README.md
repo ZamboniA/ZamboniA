@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 Estou a procura da minha primeira oportunidade na área de tecnologia.
-- 🌱 Atualmente estudando React & Node
+- 🌱 Atualmente estudando React & Node & Typescript
 
 </br>
 
